@@ -1,0 +1,9 @@
+{
+    "name": "yarn-xo-repro",
+    "dependencies": {
+        "vscode-languageserver": "^7.0.0",
+        "vscode-uri": "^3.0.3",
+        "xo": "^0.47.0"
+    },
+    "packageManager": "yarn@3.1.1"
+}
