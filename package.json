@@ -5,5 +5,8 @@
         "vscode-uri": "^3.0.3",
         "xo": "^0.47.0"
     },
+    "scripts": {
+        "start": "bash .yarn/sdks/xo/node.sh import-xo.js"
+    },
     "packageManager": "yarn@3.1.1"
 }
